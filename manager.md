@@ -12,14 +12,24 @@
 
 **Key Decision:** The methodology document (5 stages: Sourcing → Evaluation → Approach → Pitch → Execution & Learning) is THE framework. All agent work aligns to this.
 
+**Active Research Work:**
+- 2 projects in `projects/research/` (eSeis, petrochemical-specialists-phase2) using OLD framework
+- These need re-alignment or clarification on whether old framework is still valid
+
 ---
 
 ## Issues Flagged for Resolution
 
-### Issue 1: eSeis Evaluation Used Wrong Framework
+### Issue 1: Existing Research Using Wrong Framework
 **Status:** NEEDS CORRECTION
 
-eSeis research (`projects/research/eseis-first-contact-strategy.md`) was evaluated using the vault strategy's 6+6 criteria (great + underappreciated), but the canonical methodology prescribes a different approach:
+Multiple research projects were evaluated using the vault strategy's 6+6 criteria (great + underappreciated) instead of the canonical methodology:
+
+**Affected projects:**
+- `projects/research/eseis-first-contact-strategy.md` 
+- `projects/research/petrochemical-specialists-phase2.md`
+
+**Problem:** Both use vault strategy framework (great signals + underappreciated signals), but the canonical methodology prescribes a different approach:
 - Gate 1: Financial screens + moat assessment
 - Gate 2: Blocking factor identification
 - Gate 3: Addressability & opportunity sizing
@@ -121,10 +131,12 @@ Methodology's Gate 1 checks "Greatness" (financial + moat) but doesn't explicitl
 - Expect to hear back on financial proxy methods for private companies soon
 
 ### For Evaluation Agents
-- Use the three-gate methodology: Gate 1 (Greatness) → Gate 2 (Blocking Factor) → Gate 3 (Addressability)
+- **Use the three-gate methodology:** Gate 1 (Greatness) → Gate 2 (Blocking Factor) → Gate 3 (Addressability)
+- **NOT the vault strategy's 6+6 framework.** (That's outdated for this project.)
 - For Gate 1.1 (financial screens): If public data unavailable, flag to manager before scoring
 - For Gate 2.3 (blocking factor validation): If fewer than 4 YES answers, flag to manager before rejecting
 - Document everything; we learn from each evaluation
+- If you find research that was done with the old framework, flag it to manager for clarification
 
 ### For Outreach Agents
 - Use Stage 2 outreach templates
