@@ -162,7 +162,18 @@ Methodology's Gate 1 checks "Greatness" (financial + moat) but doesn't explicitl
 
 ---
 
-### Issue 5: Engagement Logging Structure Mismatch
+### Issue 5: Minor Naming Inconsistencies (README vs Methodology)
+**Status:** MINOR - Low priority
+
+Stage names differ slightly:
+- README: "Stage 3: Pitch" vs Methodology: "Stage 3: Value Proposition & Pitch"
+- README: "Stage 4: Execution" vs Methodology: "Stage 4: Engagement & Execution"
+
+**Fix:** Update README stage names to match methodology exactly for consistency.
+
+---
+
+### Issue 6: Engagement Logging Structure Mismatch
 **Status:** CLARITY NEEDED
 
 **Problem:** 
@@ -185,6 +196,34 @@ Methodology's Gate 1 checks "Greatness" (financial + moat) but doesn't explicitl
 - **Engagement logging:** Structure mismatch between README and actual repo
 
 ---
+
+---
+
+## Audit Summary (2026-06-14)
+
+**Status:** Manager oversight structure in place. Methodology is clear and actionable, but has gaps that block full agent execution. Existing research projects need re-alignment.
+
+**Critical (blocks agent work):**
+1. Framework mismatch: existing research using vault strategy, not methodology
+2. Pricing/engagement structure undefined (Stage 3)
+3. Financial proxies for private companies undefined (Gate 1)
+
+**Important (needed for clarity):**
+4. Blocking factor validation threshold unclear (Gate 2.3)
+5. Outreach follow-up protocol missing (Stage 2)
+6. Sourcing channel tracking undefined (Stage 0)
+
+**Minor:**
+7. Engagement logging structure mismatch
+8. Stage naming consistency between README and methodology
+
+**What's working well:**
+- Clear five-stage structure
+- Good decision trees and templates
+- Learning/iteration baked in
+- Autonomy guidance for agents
+
+**Next action:** Saul clarifies the 5 critical questions in "Clarifications Needed from Saul" section above.
 
 *Last updated: 2026-06-14*
 *Manager: Ongoing audit and clarification role*
