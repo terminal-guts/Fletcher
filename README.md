@@ -63,10 +63,11 @@ fletcher/
 
 **Get started:**
 1. Read the [Methodology](./methodology_identifying_great_underappreciated_companies.md) end-to-end (20-30 min)
-2. Focus on the stage you're working on (Sourcing, Evaluation, Approach, Pitch, or Execution)
-3. Follow the specific gates/frameworks in that stage
-4. Document your findings and learnings
-5. Update the methodology if you discover something that changes it
+2. Check [Manager Log](./manager.md) for current audit notes and clarifications
+3. Focus on the stage you're working on (Sourcing, Evaluation, Approach, Pitch, or Execution)
+4. Follow the specific gates/frameworks in that stage
+5. Document your findings and learnings
+6. Update the methodology if you discover something that changes it
 
 **Key principles:**
 - Work autonomously; ask only if direction is unclear
