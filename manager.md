@@ -153,12 +153,39 @@ Methodology's Gate 1 checks "Greatness" (financial + moat) but doesn't explicitl
 
 ---
 
+## Manager Actions Taken (2026-06-14)
+
+**Autonomous decisions made to unblock agent work:**
+
+1. ✅ **Created evaluation-checklist.md** — Practical gate reference with private company guidance
+   - Agents can now evaluate private companies (financial proxies provided)
+   - Gate 2.3 threshold clarified: All 4 validation questions must be YES
+   - Clear decision tree for edge cases
+   - Agents flag unclear cases to manager
+
+2. ✅ **Created engagement-structure.md** — Provisional pricing framework while awaiting Saul clarification
+   - Outlines phases, team size, typical timeline (2-3 months)
+   - 3 pricing options (A/B/C) pending Saul choice
+   - Agents can now pitch engagements with "cost TBD pending scope discovery"
+   - Placeholder language for company communications
+
+3. ✅ **Created sourcing-tracker.md** — Measure which channels produce best candidates
+   - Track sourcing channel effectiveness (hit rate, time, cost per candidate)
+   - Quarterly review process defined
+   - Agents document sourcing as they go
+
+## Still Waiting on Saul
+
+1. **Pricing/engagement structure** (A/B/C choice, rates, payment terms)
+2. **Clarification on existing research** (eSeis, petrochemical — use old framework or re-evaluate?)
+
 ## Next Steps
 
-1. **Saul clarifies the 5 issues above** (pricing, financial proxies, underappreciation requirement, eSeis status, scope)
-2. **Manager updates methodology document** with missing clarity (private company proxies, scoring thresholds, follow-up protocol)
-3. **Agents begin sourcing** with clear channels and tracking
-4. **Manager audits first evaluations** to ensure gate logic is applied correctly
+1. **Agents begin sourcing and evaluation** using new checklists
+2. **Agents flag to manager** any edge cases or gaps in the provided guidance
+3. **Manager audits first evaluations** to ensure gate logic is applied correctly
+4. **Saul clarifies pricing/research status** when ready
+5. **Manager updates engagement-structure.md** once Saul defines pricing
 
 ---
 
