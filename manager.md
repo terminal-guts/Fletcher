@@ -162,11 +162,27 @@ Methodology's Gate 1 checks "Greatness" (financial + moat) but doesn't explicitl
 
 ---
 
+### Issue 5: Engagement Logging Structure Mismatch
+**Status:** CLARITY NEEDED
+
+**Problem:** 
+- README mentions: "engagement logs go in `engagement-logs/[company-name]/`"
+- Actual research: stored in `projects/research/[name].md`
+- Directory doesn't exist: no `engagement-logs/` folder in repo
+
+**Should we:**
+1. Create `engagement-logs/` structure as README prescribes?
+2. Keep using `projects/research/` and update README?
+3. Split: research in `projects/research/`, engagement logs elsewhere?
+
+---
+
 ## Tracking
 
 - **eSeis:** Waiting for clarification on methodology (re-evaluate or valid?)
 - **petrochemical-specialists-phase2:** Not yet audited; check after eSeis clarity
 - **Methodology gaps:** 6 blocking issues documented above
+- **Engagement logging:** Structure mismatch between README and actual repo
 
 ---
 
