@@ -4,11 +4,13 @@
 
 This is the product for Fletcher. Company context loads automatically:
 
-- @~/Desktop/Claudsidian/AdamsObsidian/Company/strategy.md — current strategy and direction
-- @~/Desktop/Claudsidian/AdamsObsidian/Company/goals.md — goals and OKRs
-- @~/Desktop/Claudsidian/AdamsObsidian/references/index.md — shared facts, decisions, research
+- @./vault/Company/strategy.md — current strategy and direction
+- @./vault/Company/goals.md — goals and OKRs
+- @./vault/references/index.md — shared facts, decisions, research
 
 Saul and Adam's personal context and voice load from global `~/.claude/CLAUDE.md` (set once, applies to all projects).
+
+**Setup:** The vault is included as a git submodule. After cloning, run `git submodule update --init` to fetch it.
 
 ## Build & Deploy
 
