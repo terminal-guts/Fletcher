@@ -173,57 +173,62 @@ Stage names differ slightly:
 
 ---
 
-### Issue 6: Engagement Logging Structure Mismatch
-**Status:** CLARITY NEEDED
+### Issue 6: Engagement Logging Structure (RESOLVED)
+**Status:** RESOLVED
 
-**Problem:** 
-- README mentions: "engagement logs go in `engagement-logs/[company-name]/`"
-- Actual research: stored in `projects/research/[name].md`
-- Directory doesn't exist: no `engagement-logs/` folder in repo
+**Was:** Mismatch between README prescription and actual repo structure
+**Now:** 
+- ✅ `engagement-logs/` directory created
+- ✅ `engagement-logs/TEMPLATE.md` provides structure
+- ✅ Template aligns with methodology Stage 5 (Learning & Refinement)
+- ✅ Agents now have clear pattern for documenting engagements
 
-**Should we:**
-1. Create `engagement-logs/` structure as README prescribes?
-2. Keep using `projects/research/` and update README?
-3. Split: research in `projects/research/`, engagement logs elsewhere?
+**Distinction now clear:**
+- `projects/research/` = candidate research/evaluation (pre-engagement)
+- `engagement-logs/` = post-engagement documentation and learnings
 
 ---
 
 ## Tracking
 
 - **eSeis:** Waiting for clarification on methodology (re-evaluate or valid?)
-- **petrochemical-specialists-phase2:** Not yet audited; check after eSeis clarity
-- **Methodology gaps:** 6 blocking issues documented above
-- **Engagement logging:** Structure mismatch between README and actual repo
+- **petrochemical-specialists-phase2:** Also using wrong framework; flagged in Issue 1
+- **Methodology gaps:** 5 blocking/important issues remain (pricing, financial proxies, blocking factor threshold, outreach protocol, sourcing tracking)
+- **Engagement logging:** ✅ RESOLVED - structure in place, template created
 
 ---
 
 ---
 
-## Audit Summary (2026-06-14)
+## Audit Summary (2026-06-14, Updated)
 
-**Status:** Manager oversight structure in place. Methodology is clear and actionable, but has gaps that block full agent execution. Existing research projects need re-alignment.
+**Status:** Manager oversight structure in place. Methodology is clear and actionable. Engagement logging infrastructure resolved. 5 critical gaps remain that block full agent execution.
 
 **Critical (blocks agent work):**
-1. Framework mismatch: existing research using vault strategy, not methodology
-2. Pricing/engagement structure undefined (Stage 3)
-3. Financial proxies for private companies undefined (Gate 1)
+1. ⚠️ Framework mismatch: existing research (eSeis, petrochemical) using vault strategy instead of methodology
+2. ⚠️ Pricing/engagement structure undefined (Stage 3) — agents can't pitch without this
+3. ⚠️ Financial proxies for private companies undefined (Gate 1) — can't evaluate most companies without this
 
 **Important (needed for clarity):**
-4. Blocking factor validation threshold unclear (Gate 2.3)
-5. Outreach follow-up protocol missing (Stage 2)
-6. Sourcing channel tracking undefined (Stage 0)
+4. Blocking factor validation threshold unclear (Gate 2.3) — if 3 of 4 criteria are YES, what's the decision?
+5. Outreach follow-up protocol missing (Stage 2) — how many touches before moving on?
+6. Sourcing channel tracking undefined (Stage 0) — no way to measure which channels work
 
-**Minor:**
-7. Engagement logging structure mismatch
-8. Stage naming consistency between README and methodology
+**Resolved:**
+- ✅ Engagement logging structure (engagement-logs/ + TEMPLATE.md)
+- ✅ Manager oversight hub (manager.md)
+- ✅ README navigation clarity
+
+**Minor issues:**
+- Stage naming consistency (low priority)
 
 **What's working well:**
-- Clear five-stage structure
-- Good decision trees and templates
-- Learning/iteration baked in
-- Autonomy guidance for agents
+- Clear five-stage structure with decision trees
+- Learning/iteration baked in via Stage 5
+- Autonomy guidance for agents clear
+- Engagement template feeds learnings back to methodology
 
-**Next action:** Saul clarifies the 5 critical questions in "Clarifications Needed from Saul" section above.
+**Blockers to resolve:** Saul clarifies the 3 critical questions in "Clarifications Needed from Saul" section.
 
 *Last updated: 2026-06-14*
 *Manager: Ongoing audit and clarification role*
