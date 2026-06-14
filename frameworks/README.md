@@ -17,7 +17,17 @@ Systems and tools that operationalize the strategy into actionable research and 
 
 ---
 
-## The Four Frameworks
+## Getting Oriented
+
+**New to this system?** Start here in this order:
+1. **[Quick Reference](./quick-reference.md)** (5 min) — One-page overview of the whole system
+2. **[Glossary](./glossary.md)** (as needed) — All key terms defined
+3. **[Core Logic](./core-logic.md)** (10 min) — How to think about decisions when frameworks don't directly answer your question
+4. Then pick your track below and dive in
+
+---
+
+## The Four Core Frameworks
 
 ### 1. [AEC Subsector Analysis](./aec-subsector-analysis.md)
 **What it is:** A map of where great + underappreciated firms cluster in the AEC space.
